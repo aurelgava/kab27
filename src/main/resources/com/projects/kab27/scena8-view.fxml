@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
-<?import java.util.*?>
-<?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
 
-<AnchorPane xmlns="http://javafx.com/javafx"
-            xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.projects.kab27.Scena8Controller"
-            prefHeight="400.0" prefWidth="600.0">
-
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.projects.kab27.Scena8Controller">
+   <children>
+      <Button layoutX="30.0" layoutY="26.0" mnemonicParsing="false" onAction="#onClickScena1Btn" style="-fx-background-radius: 50;" text="MAIN  MENU" />
+      <Label layoutX="300.0" layoutY="154.0" text="Label" />
+      <Label layoutX="300.0" layoutY="192.0" text="Label" />
+      <Label layoutX="300.0" layoutY="228.0" text="Label" />
+      <TextFlow layoutX="-232.0" layoutY="422.0" prefHeight="18.0" prefWidth="48.0" />
+      <TextField fx:id="prvi" layoutX="137.0" layoutY="150.0" />
+      <TextField fx:id="drugi" layoutX="137.0" layoutY="188.0" />
+      <TextField fx:id="treci" layoutX="138.0" layoutY="224.0" />
+      <Button layoutX="344.0" layoutY="271.0" mnemonicParsing="false" onAction="#onClickSABERI" text="SABERI" />
+   </children>
 </AnchorPane>

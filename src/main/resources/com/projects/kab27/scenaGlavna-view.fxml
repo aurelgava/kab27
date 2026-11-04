@@ -18,7 +18,7 @@
    <Button mnemonicParsing="false" onAction="#onScena5ClkBtn" text="Scena 5" />
    <Button mnemonicParsing="false" text="Scena 6" />
    <Button mnemonicParsing="false" text="Scena 7" />
-   <Button mnemonicParsing="false" onAction="#onScena8ClkBtn" text="Scena 8" />
+   <Button mnemonicParsing="false" onAction="#goToScene8" text="Scena 8" />
    <Button mnemonicParsing="false" onAction="#onScena9ClkBtn" text="Scena 9" />
    <Button mnemonicParsing="false" onAction="#onScena10ClkBtn" text="Scena 10" />
 </VBox>

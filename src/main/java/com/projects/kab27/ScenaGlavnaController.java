@@ -42,6 +42,10 @@ public class ScenaGlavnaController {
         kab27Application.stage.setScene(kab27Application.scena10);
     }
 
+    public void goToScene8(ActionEvent actionEvent) {
+        kab27Application.stage.setScene(kab27Application.scena8);
+    }
+
     public static class Scena9Controller {
     }
 }
