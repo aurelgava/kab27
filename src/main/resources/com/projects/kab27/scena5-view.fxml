@@ -5,6 +5,11 @@
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.projects.kab27.Scena5Controller">
    <children>
-      <Button layoutX="56.0" layoutY="40.0" mnemonicParsing="false" onAction="#onClickScena1Btn" text="Scena1" />
+      <Button layoutX="300.0" layoutY="174.0" mnemonicParsing="false" onAction="#onClickScena1Btn" text="Scena1" />
+      <Label layoutX="363.0" layoutY="276.0" text="Scena5" />
+      <TextField fx:id="text1" layoutX="32.0" layoutY="54.0" text="5" />
+      <TextField fx:id="text2" layoutX="32.0" layoutY="126.0" text="10" />
+      <Button layoutX="81.0" layoutY="200.0" mnemonicParsing="false" onAction="#onClickSaberiBtn" text="Saberi" />
+      <Label fx:id="lblrez" layoutX="67.0" layoutY="267.0" />
    </children>
 </AnchorPane>
