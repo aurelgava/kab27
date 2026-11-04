@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="579cb130-b43e-4d51-bd99-b0dec93b0106" name="Changes" comment="scena 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Scena3Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/ScenaGlavnaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/kab27Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/scena3-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/scenaGlavna-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/MainMenuController.java" beforeDir="false" />
+    <list default="true" id="579cb130-b43e-4d51-bd99-b0dec93b0106" name="Changes" comment="create scene 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Scena4Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/scena4-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/scenaGlavna-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/scenaGlavna-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="scena 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="scena 2" />
+    <MESSAGE value="create scene 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="create scene 3" />
   </component>
 </project>

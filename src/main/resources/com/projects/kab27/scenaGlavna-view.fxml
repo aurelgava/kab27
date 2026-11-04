@@ -14,4 +14,5 @@
   <Button onAction="#onHelloButtonClick" text="Hello!" />
   <Button onAction="#goToScene2" text="Scena 2!" />
    <Button mnemonicParsing="false" onAction="#onScena3ClkBtn" text="Scena 3" />
+   <Button mnemonicParsing="false" onAction="#onScena4ClkBtn" text="Scena 4" />
 </VBox>

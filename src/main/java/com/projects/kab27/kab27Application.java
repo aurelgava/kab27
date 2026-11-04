@@ -11,6 +11,7 @@ public class kab27Application extends Application {
     public static Stage stage;
     public static Scene scenaGlavna,scena2;
     public static Scene scena3;
+    public static Scene scena4;
 
     @Override
     public void start(Stage stage) throws IOException {
@@ -27,6 +28,10 @@ public class kab27Application extends Application {
         FXMLLoader fxmlLoader3 = new FXMLLoader(kab27Application.class.getResource("scena3-view.fxml"));
         Scene scena3 = new Scene(fxmlLoader3.load(), 320, 240);
         kab27Application.scena3 = scena3;
+
+        FXMLLoader fxmlLoader4 = new FXMLLoader(kab27Application.class.getResource("scena4-view.fxml"));
+        Scene scena4 = new Scene(fxmlLoader4.load(), 320, 240);
+        kab27Application.scena4 = scena4;
 
         stage.setTitle("kab27!");
         stage.setScene(scenaGlavna);

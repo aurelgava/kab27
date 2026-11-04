@@ -21,4 +21,8 @@ public class ScenaGlavnaController {
     public void onScena3ClkBtn(ActionEvent actionEvent) {
         kab27Application.stage.setScene(kab27Application.scena3);
     }
+
+    public void onScena4ClkBtn(ActionEvent actionEvent) {
+        kab27Application.stage.setScene(kab27Application.scena4);
+    }
 }
