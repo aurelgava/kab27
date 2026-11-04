@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="579cb130-b43e-4d51-bd99-b0dec93b0106" name="Changes" comment="" />
+    <list default="true" id="579cb130-b43e-4d51-bd99-b0dec93b0106" name="Changes" comment="create Scena 5 Vladimir Menoski">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Scena5Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/scena5-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Scena3Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Scena3Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/ScenaGlavnaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/ScenaGlavnaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/kab27Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/kab27Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/scenaGlavna-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/scenaGlavna-view.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +57,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="3LKODcFrUugo3IeWYdmhzNGiMh4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,6 +80,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/kab27 PIT 2026/src/main/java/com/projects/kab27",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": ""
   }
@@ -76,6 +89,19 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.projects.kab27" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -111,6 +137,7 @@
     <MESSAGE value="scena 2" />
     <MESSAGE value="create scene 3" />
     <MESSAGE value="Napravila sam dugme za scenu 4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Napravila sam dugme za scenu 4." />
+    <MESSAGE value="create Scena 5 Vladimir Menoski" />
+    <option name="LAST_COMMIT_MESSAGE" value="create Scena 5 Vladimir Menoski" />
   </component>
 </project>
