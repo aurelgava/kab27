@@ -17,4 +17,5 @@
    <Button mnemonicParsing="false" onAction="#onScena4ClkBtn" text="Scena 4" />
    <Button mnemonicParsing="false" onAction="#onScena5ClkBtn" text="Scena 5" />
    <Button mnemonicParsing="false" text="Scena 6" />
+   <Button mnemonicParsing="false" text="Scena 7" />
 </VBox>
