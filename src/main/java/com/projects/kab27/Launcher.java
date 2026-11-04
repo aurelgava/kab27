@@ -5,6 +5,6 @@ import javafx.application.Application;
 public class Launcher {
     public static void main(String[] args) {
 
-        Application.launch(MainClass.class, args);
+        Application.launch(kab27Application.class, args);
     }
 }

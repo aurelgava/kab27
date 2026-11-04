@@ -4,17 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34791cdc-1bf0-4ae4-8b82-0e64577fde4d" name="Changes" comment="initial">
+    <list default="true" id="579cb130-b43e-4d51-bd99-b0dec93b0106" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Scena2Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/scena2-view.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/MainMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/MainMenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/mainMenu-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/mainMenu-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projects/kab27/MainMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/projects/kab27/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/projects/kab27/mainMenu-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +54,7 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="3LJvDebk90jqkr3euWXE2Ydvpkk" />
+  <component name="ProjectId" id="3LKODcFrUugo3IeWYdmhzNGiMh4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,6 +76,11 @@
     "node.js.selected.package.jshint": ""
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.projects.kab27" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,19 +91,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="34791cdc-1bf0-4ae4-8b82-0e64577fde4d" name="Changes" comment="" />
-      <created>1793184867281</created>
+      <changelist id="579cb130-b43e-4d51-bd99-b0dec93b0106" name="Changes" comment="" />
+      <created>1793199173944</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1793184867281</updated>
+      <updated>1793199173944</updated>
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
 </project>
