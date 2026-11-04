@@ -15,13 +15,16 @@ public class kab27Application extends Application {
     public static Scene scena5;
     public static Scene scena6;
     public static Scene scena7;
+    public static Scene scena8;
+    public static Scene scena9;
+    public static Scene scena10;
 
     @Override
     public void start(Stage stage) throws IOException {
         kab27Application.stage = stage;
 
         FXMLLoader fxmlLoader1 = new FXMLLoader(kab27Application.class.getResource("scenaGlavna-view.fxml"));
-        Scene scenaGlavna = new Scene(fxmlLoader1.load(), 320, 240);
+        Scene scenaGlavna = new Scene(fxmlLoader1.load(), 320, 540);
         kab27Application.scenaGlavna = scenaGlavna;
 
         FXMLLoader fxmlLoader2 = new FXMLLoader(kab27Application.class.getResource("scena2-view.fxml"));
@@ -47,6 +50,18 @@ public class kab27Application extends Application {
         FXMLLoader fxmlLoader7 = new FXMLLoader(kab27Application.class.getResource("scena7-view.fxml"));
         Scene scena7 = new Scene(fxmlLoader7.load(), 320, 240);
         kab27Application.scena7 = scena6;
+
+        FXMLLoader fxmlLoader8 = new FXMLLoader(kab27Application.class.getResource("scena8-view.fxml"));
+        Scene scena8 = new Scene(fxmlLoader8.load(), 320, 240);
+        kab27Application.scena8 = scena8;
+
+        FXMLLoader fxmlLoader9 = new FXMLLoader(kab27Application.class.getResource("scena9-view.fxml"));
+        Scene scena9 = new Scene(fxmlLoader9.load(), 320, 240);
+        kab27Application.scena9 = scena9;
+
+        FXMLLoader fxmlLoader10 = new FXMLLoader(kab27Application.class.getResource("scena10-view.fxml"));
+        Scene scena10 = new Scene(fxmlLoader10.load(), 320, 240);
+        kab27Application.scena10 = scena10;
         
         stage.setTitle("kab27!");
         stage.setScene(scenaGlavna);

@@ -27,6 +27,21 @@ public class ScenaGlavnaController {
     }
 
     public void onScena5ClkBtn(ActionEvent actionEvent) {
-        kab27Application.stage.setScene(kab27Application.scena5);
+        kab27Application.stage.setScene(kab27Application.scena7);
+    }
+
+    public void onScena8ClkBtn(ActionEvent actionEvent) {
+        kab27Application.stage.setScene(kab27Application.scena8);
+    }
+
+    public void onScena9ClkBtn(ActionEvent actionEvent) {
+        kab27Application.stage.setScene(kab27Application.scena9);
+    }
+
+    public void onScena10ClkBtn(ActionEvent actionEvent) {
+        kab27Application.stage.setScene(kab27Application.scena10);
+    }
+
+    public static class Scena9Controller {
     }
 }
